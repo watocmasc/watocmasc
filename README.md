@@ -1,5 +1,9 @@
+## About me
+- **Backend, AI, Desktop**
+- English, Russian 
+<hr>
 <div>
-  <img src="header/head_background.png" width=300, height=50 alt="Background" />
+  <img src="head_background.jpg" width=1920, height=250 alt="Background" />
 </div>
 <div>
   <h1>Tools</h1>

@@ -1,5 +1,5 @@
 ## About me
-- **Backend, AI, Desktop**
+- Backend, AI, Desktop
 - English, Russian 
 <hr>
 <div>
